@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(176, 216, 112);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blueviolet;
+    border-width: 5px;
+    width: 30%;
+}
+h1{
+    color: darkcyan;
+}
+h3{
+    color: darkred;
+}
